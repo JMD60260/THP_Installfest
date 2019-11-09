@@ -69,3 +69,13 @@ Scripting aims to automate the installation repairing a working environment for 
 <li><input disabled="" type="checkbox"> foo</li>
 <li><input checked="" disabled="" type="checkbox"> bar</li>
 </ul>
+
+<ul>
+<li><input checked="" disabled="" type="checkbox"> foo
+<ul>
+<li><input disabled="" type="checkbox"> bar</li>
+<li><input checked="" disabled="" type="checkbox"> baz</li>
+</ul>
+</li>
+<li><input disabled="" type="checkbox"> bim</li>
+</ul>
