@@ -60,3 +60,12 @@ Scripting aims to automate the installation repairing a working environment for 
 * [x] Foo
 * [x] Bar
 * [ ] Baz
+
+ 1. [x] Foo
+ 2. [x] Bar
+ 3. [ ] Baz
+
+ <ul>
+<li><input disabled="" type="checkbox"> foo</li>
+<li><input checked="" disabled="" type="checkbox"> bar</li>
+</ul>
