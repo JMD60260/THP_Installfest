@@ -79,3 +79,4 @@ Scripting aims to automate the installation repairing a working environment for 
 </li>
 <li><input disabled="" type="checkbox"> bim</li>
 </ul>
+:heavy_check_mark:
