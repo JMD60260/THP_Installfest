@@ -355,7 +355,8 @@ Install_vscode() {
 
 menu_whiptail() {
     while [ 1 ]; do
-        CHOICE=$(eval `resize`
+    eval `resize`
+        CHOICE=$(
             whiptail --title "Installfest - The Hacking Project" --menu "By LinkPhoenix" $LINES $(( $COLUMNS - 75 )) $(( $LINES - 8 )) \
                 "1)" "Depencies installation" \
                 "2)" "RVM installation" \
