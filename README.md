@@ -56,3 +56,7 @@ Scripting aims to automate the installation repairing a working environment for 
 - [ ] Install TERMINATOR
 - [ ] Config Alias and/or config Plugins OH MY ZSH
 - [ ] Send notify-send in all step 
+
+* [x] Foo
+* [x] Bar
+* [ ] Baz
