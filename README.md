@@ -1,3 +1,9 @@
+  <!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
+  <!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/LinkPhoenix" data-color-scheme="no-preference: dark; light: dark; dark: dark;" data-size="large" data-show-count="true" aria-label="Follow @LinkPhoenix on GitHub">Follow @LinkPhoenix</a>
+
 <h1 align="center">
   <a href="https://www.thehackingproject.org/">
     <img alt="spaceship →~ prompt" src="https://user-images.githubusercontent.com/33618968/68535560-68417080-0344-11ea-9874-bfe991c361cf.jpg" width="400">
