@@ -1,4 +1,10 @@
-![alt text](https://user-images.githubusercontent.com/33618968/68167380-8e8e9700-ff65-11e9-842f-19831f1c1580.png "The Hacking Project Logo")
+<h1 align="center">
+  <a href="https://www.thehackingproject.org/">
+    <img alt="spaceship →~ prompt" src="https://user-images.githubusercontent.com/33618968/68535560-68417080-0344-11ea-9874-bfe991c361cf.jpg" width="400">
+  </a>
+  <br> :fr: The Hacking Project :fr:<br>
+</h1>
+
 
 # InstallFest for The Hacking Project
 
@@ -81,4 +87,6 @@ Scripting aims to automate the installation repairing a working environment for 
 </ul>
 :heavy_check_mark:
 
-☑ ✅ ✔ ◽ ◻
+☑ ✅ ✔ ◽ ◻ 
+☑ ✅ ✔ ◽ ◻ 
+☑ ✅ ✔ ◽ ◻  
